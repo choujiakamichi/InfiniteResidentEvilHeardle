@@ -620,6 +620,18 @@ var app = (function () {
 "Wanna Play - Resident Evil: Survivor",
 "Welcome to Paradise - Resident Evil: Survivor",
 "Where the Tyrant Sleeps - Resident Evil: Survivor",
+    "1st Battle With Morphius - Resident Evil Dead Aim",
+"2nd Battle With Morphius - Resident Evil Dead Aim",
+"Battle Fat Tyrant - Resident Evil Dead Aim",
+"Battle Tyrant - Resident Evil Dead Aim",
+"Escape Now - Resident Evil Dead Aim",
+"Introduction - Resident Evil Dead Aim",
+"Last Battle With Morphius - Resident Evil Dead Aim",
+"Save Room - Resident Evil Dead Aim",
+"Scream in the Darkness - Resident Evil Dead Aim",
+"To the Missile Silo - Resident Evil Dead Aim",
+"Rize-Gun Shot(Credits) - Resident Evil Dead Aim",
+
 
   ];
   // Bug : Sometimes musics stops appearing in suggestions, it seems that musics dissapears at the end of the array
@@ -629,6 +641,17 @@ var app = (function () {
   );
 
   var musicListWithLinks = [
+          {url: "https://soundcloud.com/timothyelkins6648/1st-battle-with-morphius-resident-evil-dead-aim-1?in=timothyelkins6648/sets/resident-evil-dead-aim-ost&si=959d7226974544c28c9ba3ee71205a3a&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing", answer: "1st Battle With Morphius - Resident Evil Dead Aim",},
+          {url: "https://soundcloud.com/timothyelkins6648/2nd-battle-with-morphius-resident-evil-dead-aim-2?in=timothyelkins6648/sets/resident-evil-dead-aim-ost&si=17f8cef7f2c142878fc7f23525673b42&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing", answer: "2nd Battle With Morphius - Resident Evil Dead Aim",},
+          {url: "https://soundcloud.com/timothyelkins6648/battle-fat-tyrant-resident-evil-dead-aim-3?in=timothyelkins6648/sets/resident-evil-dead-aim-ost&si=98a7e86620c64b48896bc08d05280b2a&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing", answer: "Battle Fat Tyrant - Resident Evil Dead Aim",},
+          {url: "https://soundcloud.com/timothyelkins6648/battle-tyrant-resident-evil-dead-aim-4?in=timothyelkins6648/sets/resident-evil-dead-aim-ost&si=54a03348eee842c7844e40321c3e5b70&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing", answer: "Battle Tyrant - Resident Evil Dead Aim",},
+          {url: "https://soundcloud.com/timothyelkins6648/escape-now-resident-evil-dead-aim-5?in=timothyelkins6648/sets/resident-evil-dead-aim-ost&si=9de97394d2b642f089f892b90bb6793d&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing", answer: "Escape Now - Resident Evil Dead Aim",},
+          {url: "https://soundcloud.com/timothyelkins6648/introduction-resident-evil-dead-aim-6?in=timothyelkins6648/sets/resident-evil-dead-aim-ost&si=2c0a68468f3042559f750769774c683e&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing", answer: "Introduction - Resident Evil Dead Aim",},
+          {url: "https://soundcloud.com/timothyelkins6648/last-battle-with-morphius-resident-evil-dead-aim-7?in=timothyelkins6648/sets/resident-evil-dead-aim-ost&si=5b539532beb643cfa4f0cebea32922b9&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing", answer: "Last Battle With Morphius - Resident Evil Dead Aim",},
+          {url: "https://soundcloud.com/timothyelkins6648/save-room-resident-evil-dead-aim-9?in=timothyelkins6648/sets/resident-evil-dead-aim-ost&si=3d70e48e8e0d4e74a72e1d1d40d050b6&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing", answer: "Save Room - Resident Evil Dead Aim",},
+          {url: "https://soundcloud.com/timothyelkins6648/scream-in-the-darkness-resident-evil-dead-aim-10?in=timothyelkins6648/sets/resident-evil-dead-aim-ost&si=e170b8b827944b60bcded68046bcf09c&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing", answer: "Scream in the Darkness - Resident Evil Dead Aim",},
+          {url: "https://soundcloud.com/timothyelkins6648/to-the-missile-silo-resident-evil-dead-aim-11?in=timothyelkins6648/sets/resident-evil-dead-aim-ost&si=1243bed4f7ee471a959e54e443faf434&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing", answer: "To the Missile Silo - Resident Evil Dead Aim",},
+          {url: "https://soundcloud.com/rize108604/gun-shot?si=8e83e7f6235a4140b00743d4b9810076&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing", answer: "Rize-Gun Shot(Credits) - Resident Evil Dead Aim",},
           {url: "https://soundcloud.com/timothyelkins6648/a-place-for-education-resident-evil-survivor-1?in=timothyelkins6648/sets/resident-evil-survivor-ost&si=96e769cefc3a493a88e643d90e58d796&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing", answer: "A Place for Education - Resident Evil: Survivor",},
           {url: "https://soundcloud.com/timothyelkins6648/andys-place-resident-evil-survivor-2?in=timothyelkins6648/sets/resident-evil-survivor-ost&si=0792934dab7f4a05ba51e3a40d6c9452&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing", answer: "Andy’s Place - Resident Evil: Survivor",},
           {url: "https://soundcloud.com/timothyelkins6648/coming-to-a-cinema-near-you-resident-evil-survivor-3?in=timothyelkins6648/sets/resident-evil-survivor-ost&si=880fda69d7dd448c8e4114adec8119ea&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing", answer: "Coming to a Cinema Near You - Resident Evil: Survivor",},
