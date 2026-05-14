@@ -2,7 +2,7 @@ var app = (function () {
   var artist = "Resident Evil";
   var twitter = "choujiakamichi";
   var currentIndex = 0;
-  //Hi, it's me NinjiGalaxy. The URl below this on the template was a link to download a zip folder specific to that heardle. Removing the line, commenting out the line, or having an invalid link in the line makes the game not work. The heardle no longer brings up the link itself but I did relpace it with something I found funny.
+  //Hi, it's me Amity. The URl below this on the template was a link to download a zip folder specific to that heardle. Removing the line, commenting out the line, or having an invalid link in the line makes the game not work. The heardle no longer brings up the link itself but I did relpace it with something I found funny.
   var zipUrl = "https://www.youtube.com/watch?v=dQw4w9WgXcQ";
 
   var musicNameList = [
