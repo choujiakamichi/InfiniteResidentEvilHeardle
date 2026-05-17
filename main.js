@@ -7585,7 +7585,7 @@ var app = (function () {
       c() {
         (n = w("div")),
           (n.innerHTML =
-            '<p class="mb-3">Resident Evil Heardle Infinite is a version of Resident Evil Heardle by <a href="https://bsky.app/profile/choujiakamichi.bsky.social">choujiakamichi</a> that has no daily limit and selects songs randomly so you can play as long as you want.</p> <p class="mb-3">Volume Slider and Scroll Bar code by <a href="https://github.com/morgvanny">morgvanny</a>.</p> <p class="mb-3">Metadata code by <a href="https://www.fiverr.com/gema_designer">gema_designer</a>.</p>\n\n<p class="mb-3">Ported to the Infinite template by NinjiGalaxy.</a> </p> \n\n<p class="mb-3"> If you have technical issues, you can contact @NinjiGalaxy on Twitter or Bluesky. </p>'),
+            '<p class="mb-3">Resident Evil Heardle Infinite is a version of Resident Evil Heardle by <a href="https://bsky.app/profile/choujiakamichi.bsky.social">choujiakamichi</a> that has no daily limit and selects songs randomly so you can play as long as you want.</p> <p class="mb-3">Volume Slider and Scroll Bar code by <a href="https://github.com/morgvanny">morgvanny</a>.</p> <p class="mb-3">Metadata code by <a href="https://www.fiverr.com/gema_designer">gema_designer</a>.</p>\n\n<p class="mb-3">Ported to the Infinite template by AmityGalaxy.</a> </p> \n\n<p class="mb-3"> If you have technical issues, you can contact @amity-galaxy.bsky.social on Bluesky. </p>'),
           M(n, "class", "text");
       },
       m(e, t) {
